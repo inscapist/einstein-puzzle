@@ -2,15 +2,15 @@ Nationalities
 -------------
 english -- a
 spaniard -- b
-ukraine
+ukraine -- d
 norwegian
 japanese
 
 Beverages
 ---------
-tea
-coffee -- c
 milk
+coffee -- c
+tea -- d
 juice
 WATER
 
