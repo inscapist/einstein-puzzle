@@ -1,34 +1,34 @@
 Nationalities
 -------------
 @norwegian -- I,n
-ukrainian -- d
+#ukrainian -- d
+!english -- a
 spaniard -- b
-japanese -- m
-english -- a
+\japanese -- m
 
 Beverages
 ---------
 WATER
-tea -- d
+#tea -- d
 @milk -- H
-coffee -- c
-juice -- l
+\juice -- l
+!coffee -- c
 
 Houses
 -------
 @yellow -- g
 @blue -- n
-ivory -- e
-green -- c,e
-red -- a
+!red -- a
+!ivory -- e
+!green -- c,e
 
 Smoke
 -----
 @kool -- g
 chesterfields -- j
 oldgold -- f
-parliament -- m
-lucky strike -- l
+\lucky strike -- l
+\parliament -- m
 
 Pets
 ----
