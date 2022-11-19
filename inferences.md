@@ -1,13 +1,13 @@
 # Indirect Inferences
-a. coffee@4 -> red/english@5
+a. coffee@4 -> red/english@5 -> ukrainian@2 -> juice@5
 b. coffee@5 -> red/english@3
 
 
-# Case a. coffee@4 -> red/english@5
+# Case a. coffee@4 -> red/english@5 -> ukrainian@2
 
 #### spaniard/dog
-- 3 -> ukrainian@2 -> japanese@4 -> juice@5 -> snail not satisfiable
-- 4
+- 3 -> japanese@4 -> snail not satisfiable
+- 4 -> japanese@3 -> snail not satisfiable
 
 
 # Facts
