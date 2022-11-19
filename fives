@@ -1,6 +1,6 @@
 Nationalities
 -------------
-norwegian -- i
+norwegian -- i,n
 ukraine -- d
 spaniard -- b
 japanese
@@ -17,7 +17,7 @@ juice
 Houses
 -------
 yellow -- g
-blue
+blue -- n
 ivory -- e
 green -- c,e
 red -- a
