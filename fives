@@ -1,24 +1,24 @@
 Nationalities
 -------------
 english -- a
-spaniard -- b
 ukraine -- d
+spaniard -- b
 norwegian
 japanese
 
 Beverages
 ---------
 milk
-coffee -- c
 tea -- d
+coffee -- c
 juice
 WATER
 
 Houses
 -------
 red -- a
-green -- c
-ivory
+ivory -- e
+green -- c,e
 yellow
 blue
 
@@ -33,7 +33,7 @@ parliament
 Pets
 ----
 snail
-dog -- b
 fox
+dog -- b
 horse
 ZEBRA
