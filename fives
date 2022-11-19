@@ -1,7 +1,7 @@
 Nationalities
 -------------
 english -- a
-spain
+spaniard -- b
 ukraine
 norwegian
 japanese
@@ -32,8 +32,8 @@ parliament
 
 Pets
 ----
-dog
 snail
+dog -- b
 fox
 horse
 ZEBRA
