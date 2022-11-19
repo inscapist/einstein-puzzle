@@ -1,10 +1,10 @@
 Nationalities
 -------------
-english -- a
+norwegian -- i
 ukraine -- d
 spaniard -- b
-norwegian
 japanese
+english -- a
 
 Beverages
 ---------
@@ -16,24 +16,24 @@ juice
 
 Houses
 -------
-red -- a
+yellow -- g
 blue
 ivory -- e
 green -- c,e
-yellow -- g
+red -- a
 
 Smoke
 -----
+kool -- g
 oldgold -- f
 chesterfields
 lucky strike
 parliament
-kool -- g
 
 Pets
 ----
-snail -- f
 fox
+snail -- f
 dog -- b
 horse
 ZEBRA
