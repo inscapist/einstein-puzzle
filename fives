@@ -3,15 +3,15 @@ Nationalities
 @norwegian -- I,n
 japanese -- m
 !english -- a
-#ukrainian -- d
-\spaniard -- b
+ukrainian -- d
+spaniard -- b
 
 Beverages
 ---------
 WATER
-\juice -- l
+juice -- l
 @milk -- H
-#tea -- d
+tea -- d
 !coffee -- c
 
 Houses
@@ -25,7 +25,7 @@ Houses
 Smoke
 -----
 @kool -- g
-\lucky strike -- l
+lucky strike -- l
 chesterfields -- j
 oldgold -- f
 parliament -- m
