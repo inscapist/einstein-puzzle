@@ -1,17 +1,17 @@
 Nationalities
 -------------
 @norwegian -- I,n
-#ukrainian -- d
+japanese -- m
 !english -- a
-spaniard -- b
-\japanese -- m
+#ukrainian -- d
+\spaniard -- b
 
 Beverages
 ---------
 WATER
-#tea -- d
-@milk -- H
 \juice -- l
+@milk -- H
+#tea -- d
 !coffee -- c
 
 Houses
@@ -25,15 +25,15 @@ Houses
 Smoke
 -----
 @kool -- g
+\lucky strike -- l
 chesterfields -- j
 oldgold -- f
-\lucky strike -- l
-\parliament -- m
+parliament -- m
 
 Pets
 ----
 fox -- j
 @horse
-dog -- b
-ZEBRA
 snail -- f
+ZEBRA
+dog -- b

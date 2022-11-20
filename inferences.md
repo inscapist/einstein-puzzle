@@ -13,7 +13,7 @@ b. coffee@5 -> red/english@3
 
 #### ukranian/tea
 - 2 -> juice@4 -> japanese@5 -> spaniard not satisfiable
-- 4
+- 4 -> juice@2 -> spaniard@5 -> luckystrike or japanese not simultaneously satisfiable
 
 
 # Facts
